@@ -20,7 +20,7 @@
 
 ---
 
-## 2. Divisão da Equipe (5 integrantes)
+## 2. Divisão da Equipe (3 integrantes)
 Todos integrantes se juntando para realizar cada passo um de cada vez, cada sprint com os 4 integrantes trabalhando juntos afim de aprender e realizar a tarefa
 exemplo: sprint da semana 1 fazer uma tela, cada um implementa uma função da tela x
 
